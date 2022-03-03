@@ -1,2 +1,3 @@
 #!/bin/bash
-[C-x C-f]
+ls -l
+
